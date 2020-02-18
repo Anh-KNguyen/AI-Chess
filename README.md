@@ -1,2 +1,4 @@
 # AI-Chess
-The graphical interface is made in Java Swing and features simple and easy to use functionality for interacting with the AI agent.
+The GUI is made in Java Swing.
+
+This is a chess game which feautes a graphical user interface for interacting with an AI agent.
